@@ -1,0 +1,14 @@
+C:\Users\romeo.DESKTOP-L1937IA\source\repos\cassetta di sicurezza\cassetta di sicurezza\bin\Debug\net6.0\cassetta di sicurezza.exe
+C:\Users\romeo.DESKTOP-L1937IA\source\repos\cassetta di sicurezza\cassetta di sicurezza\bin\Debug\net6.0\cassetta di sicurezza.deps.json
+C:\Users\romeo.DESKTOP-L1937IA\source\repos\cassetta di sicurezza\cassetta di sicurezza\bin\Debug\net6.0\cassetta di sicurezza.runtimeconfig.json
+C:\Users\romeo.DESKTOP-L1937IA\source\repos\cassetta di sicurezza\cassetta di sicurezza\bin\Debug\net6.0\cassetta di sicurezza.dll
+C:\Users\romeo.DESKTOP-L1937IA\source\repos\cassetta di sicurezza\cassetta di sicurezza\bin\Debug\net6.0\cassetta di sicurezza.pdb
+C:\Users\romeo.DESKTOP-L1937IA\source\repos\cassetta di sicurezza\cassetta di sicurezza\obj\Debug\net6.0\cassetta di sicurezza.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\romeo.DESKTOP-L1937IA\source\repos\cassetta di sicurezza\cassetta di sicurezza\obj\Debug\net6.0\cassetta di sicurezza.AssemblyInfoInputs.cache
+C:\Users\romeo.DESKTOP-L1937IA\source\repos\cassetta di sicurezza\cassetta di sicurezza\obj\Debug\net6.0\cassetta di sicurezza.AssemblyInfo.cs
+C:\Users\romeo.DESKTOP-L1937IA\source\repos\cassetta di sicurezza\cassetta di sicurezza\obj\Debug\net6.0\cassetta di sicurezza.csproj.CoreCompileInputs.cache
+C:\Users\romeo.DESKTOP-L1937IA\source\repos\cassetta di sicurezza\cassetta di sicurezza\obj\Debug\net6.0\cassetta di sicurezza.dll
+C:\Users\romeo.DESKTOP-L1937IA\source\repos\cassetta di sicurezza\cassetta di sicurezza\obj\Debug\net6.0\refint\cassetta di sicurezza.dll
+C:\Users\romeo.DESKTOP-L1937IA\source\repos\cassetta di sicurezza\cassetta di sicurezza\obj\Debug\net6.0\cassetta di sicurezza.pdb
+C:\Users\romeo.DESKTOP-L1937IA\source\repos\cassetta di sicurezza\cassetta di sicurezza\obj\Debug\net6.0\cassetta di sicurezza.genruntimeconfig.cache
+C:\Users\romeo.DESKTOP-L1937IA\source\repos\cassetta di sicurezza\cassetta di sicurezza\obj\Debug\net6.0\ref\cassetta di sicurezza.dll
